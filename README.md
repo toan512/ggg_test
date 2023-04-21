@@ -38,6 +38,13 @@ Config amazon bypass I'm Not Robot (Get header cookie)
 ```
 ![Image Show](https://soistories.one/cv/images/tut.jpg)
 
+## Run Laravel :
+In Laravel folder, open terminal or cmd to run command (PHP required)
+- php artisan key:generate
+- php artisan serve
+After run you will get some thing like this : PHP 7.4.27 Development Server (http://127.0.0.1:8000) started
+Website will url is : http://127.0.0.1:8000
+
 ## Database design EAV Pattern :
 **Use EAV Pattern for easy expand attribute product**
 ![Image Show](https://soistories.one/cv/images/eav_design.jpg)

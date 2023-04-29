@@ -14,6 +14,7 @@ Any question contact via email : toan512@gmail.com
 - Get product information from the website amazon.com
 - Easily install, configure and expand the product attributes
 - Add or customize various types of fees easily
+
 **NOTE : This version only support Amazon product Weight(pounds), Dimensions(inches)**
 ## Framework : 
 - Laravel Framework 8.83.23
@@ -33,9 +34,10 @@ Config amazon bypass I'm Not Robot (Get header cookie)
 2. Right click with element in amazon.com website 
 3. Choose 'inspect' 
 4. Active tab 'Network'
-5. Reload website, and check blue color in image below (?th=1 just a first request)
+5. Reload website, and click request has "Request URL" from "https://www.amazon.com", you can see in image red color
 6. Copy cookie value and paste in .env Variable AMAZON_COOKIE. Example : AMAZON_COOKIE = "cookie_value_here"
 ```
+
 ![Image Show](https://soistories.one/cv/images/tut.jpg)
 
 ## Run Laravel :

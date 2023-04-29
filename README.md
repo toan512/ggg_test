@@ -38,7 +38,7 @@ Config amazon bypass I'm Not Robot (Get header cookie)
 6. Copy cookie value and paste in .env Variable AMAZON_COOKIE. Example : AMAZON_COOKIE = "cookie_value_here"
 ```
 
-![Image Show](https://soistories.one/cv/images/tut.jpg)
+![Image Show](https://soistories.one/cv/images/tut2.jpg)
 
 ## Run Laravel :
 In Laravel folder, open terminal or cmd to run command (PHP required)
